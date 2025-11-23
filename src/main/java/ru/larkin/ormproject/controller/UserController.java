@@ -9,7 +9,6 @@ import ru.larkin.ormproject.dto.course.CourseResponseDto;
 import ru.larkin.ormproject.dto.user.UserCreateDto;
 import ru.larkin.ormproject.dto.user.UserResponseDto;
 import ru.larkin.ormproject.entity.Role;
-import ru.larkin.ormproject.repository.CourseRepository;
 import ru.larkin.ormproject.service.CourseService;
 import ru.larkin.ormproject.service.UserService;
 
